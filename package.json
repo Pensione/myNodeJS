@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"Alexander Mikhailov",
+	"author":"@fccd1794e45-18aa-4294-8aa1-3c788ed6aadd",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
