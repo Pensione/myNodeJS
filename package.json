@@ -1,3 +1,15 @@
-
-"author":"Alexander Mikh",
-
+{
+	"name": "fcc-learn-npm-package-json",
+	"author":"Alexander",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Pensione/myNodeJS.git"
+	}
+}
