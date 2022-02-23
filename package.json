@@ -3,6 +3,7 @@
   "author": "Alexander",
   "description":"A test project for my node.js journey with freecodecamp",
   "keywords":["freecodecamp", "amazing", "nodeJS","web"],
+  "license":"MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
