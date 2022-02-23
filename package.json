@@ -1,16 +1,17 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author":"Alexander",
-	"description":"A test project for my node.js journey with freecodecamp",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Pensione/myNodeJS.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "Alexander",
+  "description":"A test project for my node.js journey with freecodecamp",
+  "keywords":["freecodecamp", "amazing", "nodeJS","web"],
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pensione/myNodeJS.git"
+  }
 }
